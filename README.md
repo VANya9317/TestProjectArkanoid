@@ -1,6 +1,6 @@
 Hey, everybody!
 
-I completed within 48 hours a simple but very popular Arkanoid game!
+I have completed within 48 hours a simple but very popular game Arcanoid, in my interpretation and I hope you like it!
 In this work I wanted to show my maximum range of capabilities, quality in working with code and use the minimum amount of resources.
 
 At the link below you can download the project for Android or PC:
